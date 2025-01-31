@@ -136,9 +136,3 @@ The script **automatically evaluates accuracy and forgetting** after each task a
 
 * * *
 
-**📬 Questions or Contributions?**
-----------------------------------
-
-If you'd like to **improve this model** or have questions, feel free to **open an issue** or submit a **pull request**! 🚀
-
-This README provides a **detailed, self-explanatory guide** to the method, making it easy for anyone to understand and reproduce. Let me know if you need further refinements! 😊
